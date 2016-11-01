@@ -7,5 +7,35 @@ public class Calculator {
 		//wut-->jer
 		// keshav
 	}
+	
+
+	//	+ unary eliminator
+
+	//	- unary -- add n
+
+	//	- unary -- replace n
+
+	//	Replace x variable
+
+	//	find ()
+
+	//	Solve ^
+
+	//	Solve r
+
+	//	Solve *
+
+	//	Solve / 
+
+	//	Solve + (Jeremy)
+
+	//	Solve -
+
+	//	Return Boolean - Check there are no more operators
+
+	//	Space replacer
+
+	//	Find end of expression
+
 
 }
