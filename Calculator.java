@@ -6,6 +6,36 @@ public class Calculator {
 		//  Auto-generated method stub
 		//wut-->jer
 		// keshav
+		System.out.println("hello world");
 	}
+	
+
+	//	+ unary eliminator
+	
+	//	- unary -- add n
+
+	//	- unary -- replace n
+
+	//	Replace x variable
+
+	//	find ()
+
+	//	Solve ^
+
+	//	Solve r
+
+	//	Solve *
+
+	//	Solve / 
+
+	//	Solve +
+
+	//	Solve -
+
+	//	Return Boolean - Check there are no more operators
+
+	//	Space replacer
+
+	//	Find end of expression
 
 }
