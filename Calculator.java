@@ -30,6 +30,10 @@ public class Calculator {
 	//	Solve / 
 
 	//	Solve + (Jeremy)
+	public static String Add(String expression){
+		//nope
+		return expression;
+	}
 
 	//	Solve -
 
